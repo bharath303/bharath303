@@ -3,14 +3,11 @@
 <a href="https://github.com/bharath303">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&vCenter=true&width=700&lines=ECE+Student+at+Sona+College+of+Technology;IoT+and+Embedded+Systems+Engineer;Computer+Vision+and+Python+Developer;Published+Patent+Holder;5x+Hackathon+Participant" />
 </a>
-
 <br/>
-
 <a href="mailto:bharathpri1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-bharathpri1998-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/bharath-s-707b50289"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/bharath303"><img src="https://img.shields.io/badge/GitHub-bharath303-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="tel:+917339650234"><img src="https://img.shields.io/badge/WhatsApp-%2B91_7339650234-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🎓_B.E._ECE-Sona_College-gold?style=flat-square"/>
@@ -387,9 +384,7 @@ HTML • CSS • UI/UX
 </a>
 
 </div>
-
 ---
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -401,16 +396,10 @@ HTML • CSS • UI/UX
 </picture>
 
 </div>
-
 ---
-
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=bharath303&label=👁️+Profile+Views&color=58a6ff&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/bharath303?label=Followers&style=for-the-badge&color=1f6feb"/>
-
 <br/><br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&text=Building+Smart+Systems+That+Solve+Real-World+Problems&fontSize=14&fontColor=ffffff&fontAlignY=65"/>
-
 </div>
