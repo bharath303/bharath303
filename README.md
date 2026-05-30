@@ -360,29 +360,21 @@ HTML • CSS • UI/UX
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-
 <a href="mailto:bharathpri1998@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-bharathpri1998@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <br/><br/>
-
 <a href="https://linkedin.com/in/bharath-s-707b50289">
   <img src="https://img.shields.io/badge/💼_LinkedIn-bharath--s--707b50289-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <br/><br/>
-
 <a href="https://github.com/bharath303">
   <img src="https://img.shields.io/badge/🐙_GitHub-bharath303-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <br/><br/>
-
 <a href="tel:+917339650234">
   <img src="https://img.shields.io/badge/📱_Phone-%2B91_7339650234-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-
 </div>
 ---
 ## 🐍 Contribution Snake
