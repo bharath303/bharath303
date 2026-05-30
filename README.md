@@ -121,12 +121,6 @@
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharath303&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -276,21 +270,39 @@
 
 ## 🎯 Areas of Interest
 
-<div align="center">
+## 🎯 Areas of Interest
 
-```
-┌─────────────────────────┐    ┌─────────────────────────┐
-│   🔌  Embedded Systems  │    │   🌐  IoT Solutions      │
-│   ESP8266 · Arduino     │    │   Blynk · MQTT · GPS     │
-└─────────────────────────┘    └─────────────────────────┘
-┌─────────────────────────┐    ┌─────────────────────────┐
-│   📊  Data Analytics    │    │   🎨  Frontend Web Dev   │
-│   SQL · MATLAB · CSV    │    │   HTML · CSS · UI/UX     │
-└─────────────────────────┘    └─────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="25%">
 
-</div>
+### 🔌 Embedded Systems
+ESP8266 • Arduino
 
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 IoT Solutions
+Blynk • MQTT • GPS
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊 Data Analytics
+SQL • MATLAB • CSV
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨 Frontend Development
+HTML • CSS • UI/UX
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🤝 Let's Connect & Collaborate
