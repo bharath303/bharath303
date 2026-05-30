@@ -27,61 +27,16 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="65%">
-
-### 🚀 Bharath S
-
-🎓 **B.E. Electronics & Communication Engineering**  
-🏫 Sona College of Technology (2023 – 2027)
-
-📍 Salem, Tamil Nadu, India
-
-📊 Current CGPA: **7.67**
-
-📜 Published Patent: **Smart Trash Management System**  
-Patent ID: **202441097531**
-
-💡 Interested in:
-- Embedded Systems
-- Internet of Things (IoT)
-- Computer Vision
-- Data Analytics
-
-🏆 Participated in **5 Hackathons**
-
-📚 Completed **6 Certifications**
-
-💼 **Open to Work & Collaborate**
-
-</td>
-
-<td width="35%">
-
-```python
-class BharathS:
-    def __init__(self):
-        self.role = "IoT Engineer"
-        self.skills = [
-            "Python",
-            "Embedded C",
-            "OpenCV",
-            "Arduino",
-            "ESP8266"
-        ]
-        self.status = "Open To Work"
-
-    def say_hi(self):
-        print("Welcome to my GitHub Profile 🚀")
-
-me = BharathS()
-me.say_hi()
-```
-
-</td>
-</tr>
-</table>
+| 🎓 Education | B.E. Electronics & Communication Engineering |
+|-------------|---------------------------------------------|
+| 🏫 College | Sona College of Technology |
+| 📍 Location | Salem, Tamil Nadu, India |
+| 📊 CGPA | 7.67 |
+| 📜 Patent | Smart Trash Management System (202441097531) |
+| 💡 Interests | IoT, Embedded Systems, Computer Vision, Data Analytics |
+| 🏆 Hackathons | 5 Participations |
+| 📚 Certifications | 6 Completed |
+| 💼 Status | Open to Work |
 ---
 
 ## ⚡ Tech Arsenal
