@@ -25,29 +25,63 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+## 👋 About Me
+
+<table>
+<tr>
+<td width="65%">
+
+### 🚀 Bharath S
+
+🎓 **B.E. Electronics & Communication Engineering**  
+🏫 Sona College of Technology (2023 – 2027)
+
+📍 Salem, Tamil Nadu, India
+
+📊 Current CGPA: **7.67**
+
+📜 Published Patent: **Smart Trash Management System**  
+Patent ID: **202441097531**
+
+💡 Interested in:
+- Embedded Systems
+- Internet of Things (IoT)
+- Computer Vision
+- Data Analytics
+
+🏆 Participated in **5 Hackathons**
+
+📚 Completed **6 Certifications**
+
+💼 **Open to Work & Collaborate**
+
+</td>
+
+<td width="35%">
 
 ```python
 class BharathS:
     def __init__(self):
-        self.name         = "Bharath S"
-        self.location     = "Salem, Tamil Nadu 🇮🇳"
-        self.education    = "B.E. ECE @ Sona College of Technology (2023–2027)"
-        self.cgpa         = 7.67
-        self.patent       = "Smart Trash Management System | ID: 202441097531"
-        self.interests    = ["Embedded Systems", "IoT", "Computer Vision", "Data Analytics"]
-        self.strengths    = ["Leadership", "Analytical Thinking", "Quick Learning"]
-        self.hackathons   = 5
-        self.certs        = 6
-        self.open_to_work = True
+        self.role = "IoT Engineer"
+        self.skills = [
+            "Python",
+            "Embedded C",
+            "OpenCV",
+            "Arduino",
+            "ESP8266"
+        ]
+        self.status = "Open To Work"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+        print("Welcome to my GitHub Profile 🚀")
 
 me = BharathS()
 me.say_hi()
 ```
 
+</td>
+</tr>
+</table>
 ---
 
 ## ⚡ Tech Arsenal
