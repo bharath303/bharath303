@@ -188,24 +188,82 @@
 
 ---
 
+
 ## 📜 Published Patent
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                   📜  PATENT CERTIFICATE                     ║
-║                                                              ║
-║   Title    :  Smart Trash Management System                  ║
-║   Patent   :  202441097531                                   ║
-║   Date     :  10-12-2024                                     ║
-║   Author   :  Bharath S                                      ║
-║   Status   :  ✅  Published                                  ║
-║                                                              ║
-║   An IoT-based intelligent waste monitoring system           ║
-║   with real-time tracking, GPS & automated alerts            ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/PATENT-PUBLISHED-success?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+
+<br><br>
+
+# 🗑️ Smart Trash Management System
+
+### 🌟 Patent ID: `202441097531`
+
+<img src="https://img.shields.io/badge/Status-Published-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Date-10_Dec_2024-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Domain-IoT_&_Smart_Waste_Management-orange?style=flat-square"/>
+
+</div>
+
+---
+
+### 🚀 Innovation Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+✅ Real-time waste level monitoring
+
+✅ Automated collection alerts
+
+✅ GPS-based location tracking
+
+✅ Cloud dashboard integration
+
+</td>
+
+<td width="50%">
+
+✅ Reduced collection costs
+
+✅ Smart city ready solution
+
+✅ IoT-enabled architecture
+
+✅ Patent Published in 2024
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Technology Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Blynk_IoT-23C48E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GPS_Module-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded_C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Impact
+
+*"An IoT-powered intelligent waste management solution designed to optimize garbage collection through real-time monitoring, GPS tracking, and automated notifications."*
 
 </div>
 
@@ -268,7 +326,6 @@
 
 ---
 
-## 🎯 Areas of Interest
 
 ## 🎯 Areas of Interest
 
