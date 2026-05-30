@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=BHARATH%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IoT%20Engineer%20%7C%20Python%20Developer%20%7C%20Patent%20Holder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/bharath303">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+ECE+Undergrad+%40+Sona+College+of+Technology;⚡+IoT+Systems+%26+Embedded+Engineer;🤖+Computer+Vision+%26+Python+Developer;📜+Published+Patent+Holder+%7C+ID%3A+202441097531;🏆+5%C3%97+Hackathon+Warrior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&vCenter=true&width=700&lines=ECE+Student+at+Sona+College+of+Technology;IoT+and+Embedded+Systems+Engineer;Computer+Vision+and+Python+Developer;Published+Patent+Holder;5x+Hackathon+Participant" />
 </a>
 
 <br/>
